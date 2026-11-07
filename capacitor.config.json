@@ -1,0 +1,8 @@
+{
+  "appId": "com.yourname.ipodplayer",
+  "appName": "iPod Player",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
